@@ -1213,16 +1213,8 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
 
   // Thanks To
   exports.sthanksto= () => {
-  return`  *🙏 Thanks To*
-  ✎ Dika Ardnt
-  ✎ Fatih Arridho
-  ✎ Nurutomo
-  ✎ Mhankbarbar
-  ✎ Zeeone Ofc
-  ✎ Ryuka Team
-  ✎ Deff
-  ✎ Yoga
-  ✎ Riy
+  return`  *🙏 Suwun Nggo Mas*
+  ✎ Renzz
   `
   }
   
