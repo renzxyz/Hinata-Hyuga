@@ -607,7 +607,7 @@ zarrah, niscaya dia akan melihat
   `
   } 
 
-  // ListHosting
+  // listhosting
   exports.listhosting = () => {
   return`
 *WHM - MWHM - ADMINHOST*
@@ -620,7 +620,6 @@ SCRIPT SHORTLINK : Rp. 15.000
 *🏦 PAYMENT :*
 - Gopay
 - Dana
-- QR ALL PAY 
   `
   }
 
