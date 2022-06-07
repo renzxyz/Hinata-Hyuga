@@ -93,7 +93,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ ${prefix}delete
   ✎ ${prefix}donasi
   ✎ ${prefix}rules
-  ✎ ${prefix}listhosting
+  ✎ ${prefix}hosting
   ✎ ${prefix}report
 
   *👦 Owner Menu*
@@ -607,15 +607,16 @@ zarrah, niscaya dia akan melihat
   `
   } 
 
-  // Sewa
-  exports.sewa = () => {
+  // Hosting
+  exports.hosting = () => {
   return`
-*Whm-Mwhm-Adhost-Sc*
+READY ALL :
 
-• Whm Mini-Super : Rp.30.000-Rp.60.000
-• Mwhm Mini-Super : Rp.40.000-Rp.80.000
-• Admin Host : Rp.40.000
-• SC SHORTLINK : Rp.15.000
+- Whm Mini-Super : 30.000 - 60.000
+- Mwhm Mini-Super : 40.000 - 80.000
+- Admin Host : 40.000
+- SC SHORTLINK : 15.000
+- MURID WEB : 30.000
 
 *🏦 PAYMENT :*
 - Gopay
@@ -651,7 +652,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   ✎ ${prefix}delete
   ✎ ${prefix}donasi
   ✎ ${prefix}rules
-  ✎ ${prefix}sewabot
+  ✎ ${prefix}hosting
   ✎ ${prefix}report
   `
   }
