@@ -19,7 +19,7 @@
   global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
   global.autoRecord = false // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
-  global.limitCount = 99 // 70 Dah Pas Banh
+  global.limitCount = 70 // 70 Dah Pas Banh
   global.prefa = ['','.','/','#']
 
   // Other
