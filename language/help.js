@@ -93,7 +93,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ ${prefix}delete
   ✎ ${prefix}donasi
   ✎ ${prefix}rules
-  ✎ ${prefix}sewabot
+  ✎ ${prefix}listhosting
   ✎ ${prefix}report
 
   *👦 Owner Menu*
@@ -552,15 +552,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ ${prefix}katasenja
 
   *🙏 Thanks To*
-  ✎ Dika Ardnt
-  ✎ Fatih Arridho
-  ✎ Nurutomo
-  ✎ Mhankbarbar
-  ✎ Zeeone Ofc
-  ✎ Ryuka Team
-  ✎ Deff
-  ✎ Yoga
-  ✎ Riy
+  ✎ Mas Renz Ganteng 🥰
   `
   }
 
@@ -616,7 +608,7 @@ zarrah, niscaya dia akan melihat
   } 
 
   // ListHosting
-  exports.ListHosting = () => {
+  exports.listhosting = () => {
   return`
 *WHM - MWHM - ADMINHOST*
 
@@ -660,7 +652,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   ✎ ${prefix}delete
   ✎ ${prefix}donasi
   ✎ ${prefix}rules
-  ✎ ${prefix}sewabot
+  ✎ ${prefix}listhosting
   ✎ ${prefix}report
   `
   }
