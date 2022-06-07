@@ -23,12 +23,12 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
+  global.ownername = 'RenzXz' // Ganti Jadi Namamu
+  global.owner = ['62895360953898','62895360953898','62895360953898'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '62895360953898' // Owner Utama Istilahnya
+  global.botname = '日向ヒナタ' // Ganti Jadi Nama Botmu
+  global.packname = '日向ヒナタ' // Sticker Weem
+  global.author = 'RenzXz' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
@@ -63,7 +63,7 @@
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
   wait: '_Sabar Sedang Di Proses ..._',
-  done: '_Done Ngab 🤗_',
+  done: '_Done Om 🤗_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
