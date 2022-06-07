@@ -612,10 +612,10 @@ zarrah, niscaya dia akan melihat
   return`
 *Whm-Mwhm-Adhost-Sc*
 
-```• Whm Mini-Super : Rp. 30.000 - Rp. 60.000```
-```• Mwhm Mini-Super : Rp. 40.000 - Rp. 80.000```
-```• Admin Host : Rp. 40.000```
-```• SC SHORTLINK : Rp. 15.000```
+• Whm Mini-Super : Rp.30.000-Rp.60.000
+• Mwhm Mini-Super : Rp.40.000-Rp.80.000
+• Admin Host : Rp.40.000
+• SC SHORTLINK : Rp.15.000
 
 *🏦 PAYMENT :*
 - Gopay
