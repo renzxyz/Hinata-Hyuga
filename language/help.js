@@ -580,7 +580,7 @@ Sanksi : *Warn/Soft Block 🚧*
 🤖 : Mohon Bersabar, Mungkin Kendala Dari Jaringan, Signal, Atau Bahkan Terbanned Dari Pihak WhatsApp
 
 👦 : Scriptnya Beli Dimana? 😁
-🤖 : Script Ini Dijual 10k
+🤖 : Script Dijual 10k🗿
 
 👦 : Boleh Masukin Ke Grup Saia Tidak? 😁
 🤖 : Untuk Masalah Memasukkan Bot Ke Dalam Grup Bisa Menghubungi Owner
@@ -615,8 +615,8 @@ zarrah, niscaya dia akan melihat
   `
   } 
 
-  // List hosting
-  exports.list hosting = () => {
+  // ListHosting
+  exports.ListHosting = () => {
   return`
 *WHM - MWHM - ADMINHOST*
 
@@ -1214,7 +1214,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
 
   // Thanks To
   exports.sthanksto= () => {
-  return`  *🙏 Suwun Nggo*
+  return`  *🙏 Suwun Nggeh*
   ✎ Mas Renz Ganteng🥰
   `
   }
