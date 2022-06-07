@@ -93,7 +93,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ ${prefix}delete
   ✎ ${prefix}donasi
   ✎ ${prefix}rules
-  ✎ ${prefix}sewabot
+  ✎ ${prefix}listhosting
   ✎ ${prefix}report
 
   *👦 Owner Menu*
@@ -551,7 +551,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ ${prefix}fiersabersari
   ✎ ${prefix}katasenja
 
-  *🙏 Thanks To*
+  *🙏 Suwun Nggeh*
   ✎ Mas Renz Ganteng 🥰
   `
   }
@@ -610,12 +610,26 @@ zarrah, niscaya dia akan melihat
   // Sewa
   exports.sewa = () => {
   return`
-*WHM - MWHM - ADMINHOST*
+```READY KEBUTUHAN HOSTING```
 
-WHM MINI-SUPER : Rp. 30.000 - Rp. 60.000
-MWHM MINI-SUPER : Rp. 50.000 - Rp. 80.000
-ADMIN HOSTING : Rp. 40.000
-SCRIPT SHORTLINK : Rp. 15.000
+  𝐖𝐄𝐁 𝐏
+*➪*  WEB P 0 GARANSI 10K
+*➪*  WEB P 1 GARANSI 15K
+*➪*  WEB P 2 GARANSI 20K
+*➪*  WEB P 3 GARANSI 25K
+*GARANSI ? APA ITU ??*
+_• JIKA WEB RUSAK MAKA BISA DIGANTIKAN WEB BARU_
+
+  𝐖𝐇𝐌 - 𝐒𝐂
+*➪*  _WHM MINI 30K_
+*➪*  _WHM MEDIUM 40K_
+*➪*  _WHM SUPER 50K_
+*➪*  _MWHN MEDIUM 60K_
+*➪*  _MWHM SUPER 90K_
+*➪*  _ADMIN HOST 40K._
+*➪*  _SC SHORTLINK 15K._
+*_-OPEN JUGA MURID WEB 30K
+FREE WHM,SC,TUTORVIAVIDEO_*
 
 *🏦 PAYMENT :*
 - Gopay
