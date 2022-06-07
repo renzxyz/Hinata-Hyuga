@@ -580,7 +580,7 @@ Sanksi : *Warn/Soft Block 🚧*
 🤖 : Mohon Bersabar, Mungkin Kendala Dari Jaringan, Signal, Atau Bahkan Terbanned Dari Pihak WhatsApp
 
 👦 : Scriptnya Beli Dimana? 😁
-🤖 : Script Ini Tidak Di Perjualbelikan Karena Script Ini Dibagikan Secara Free. Kalian Bisa Mendapatkannya Di Channel Ryuuka Botz
+🤖 : Script Ini Dijual 10k
 
 👦 : Boleh Masukin Ke Grup Saia Tidak? 😁
 🤖 : Untuk Masalah Memasukkan Bot Ke Dalam Grup Bisa Menghubungi Owner
@@ -615,19 +615,20 @@ zarrah, niscaya dia akan melihat
   `
   } 
 
-  // Sewa
-  exports.sewa = () => {
+  // List hosting
+  exports.list hosting = () => {
   return`
-*SEWA BOT 💫*
+*WHM - MWHM - ADMINHOST*
 
-📆 1 Minggu : Rp. 10.000,00
-📆 1 Bulan : Rp. 20.000,00
-📆 1 Tahun : Rp. 100.000,00
-📆 Permanen : Buat Bot Sendiri!!!
+WHM MINI-SUPER : Rp. 30.000 - Rp. 60.000
+MWHM MINI-SUPER : Rp. 50.000 - Rp. 80.000
+ADMIN HOSTING : Rp. 40.000
+SCRIPT SHORTLINK : Rp. 15.000
 
 *🏦 PAYMENT :*
 - Gopay
 - Dana
+- QR ALL PAY 
   `
   }
 
@@ -1213,16 +1214,8 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
 
   // Thanks To
   exports.sthanksto= () => {
-  return`  *🙏 Thanks To*
-  ✎ Dika Ardnt
-  ✎ Fatih Arridho
-  ✎ Nurutomo
-  ✎ Mhankbarbar
-  ✎ Zeeone Ofc
-  ✎ Ryuka Team
-  ✎ Deff
-  ✎ Yoga
-  ✎ Riy
+  return`  *🙏 Suwun Nggo*
+  ✎ Mas Renz Ganteng🥰
   `
   }
   
