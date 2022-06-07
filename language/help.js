@@ -93,7 +93,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ ${prefix}delete
   ✎ ${prefix}donasi
   ✎ ${prefix}rules
-  ✎ ${prefix}listhosting
+  ✎ ${prefix}sewabot
   ✎ ${prefix}report
 
   *👦 Owner Menu*
@@ -607,8 +607,8 @@ zarrah, niscaya dia akan melihat
   `
   } 
 
-  // listhosting
-  exports.listhosting = () => {
+  // Sewa
+  exports.sewa = () => {
   return`
 *WHM - MWHM - ADMINHOST*
 
@@ -651,7 +651,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   ✎ ${prefix}delete
   ✎ ${prefix}donasi
   ✎ ${prefix}rules
-  ✎ ${prefix}listhosting
+  ✎ ${prefix}sewabot
   ✎ ${prefix}report
   `
   }
