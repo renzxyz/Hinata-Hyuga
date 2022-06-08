@@ -607,8 +607,8 @@ zarrah, niscaya dia akan melihat
   `
   } 
 
-  // Hosting
-  exports.hosting = () => {
+  // Sewa
+  exports.sewa = () => {
   return`
 READY ALL :
 
